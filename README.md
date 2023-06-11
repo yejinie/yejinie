@@ -9,8 +9,6 @@ Email: yeajin010303@gamil.com
 
 
 
-![yejinie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinie&show_icons=true)
-
 
 I’m currently learning 
 <br>
@@ -22,6 +20,12 @@ I’m currently learning
 ...
 
 <!--
+
+
+
+![yejinie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinie&show_icons=true)
+
+
 **yejinie/yejinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
